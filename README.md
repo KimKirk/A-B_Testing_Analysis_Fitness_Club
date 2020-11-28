@@ -9,7 +9,7 @@ A/B Testing Analysis Fitness Club Acquisition Funnel
 
 - Visit https://docs.google.com/presentation/d/e/2PACX-1vQ1wpMLYn_tlMU8DjBwFLLrwxODtyQ-Yn0uHIyGVnNA6EugmanfVsLmeL2SzHEnEaEt-5jsuYaQy4iU/pub?start=false&loop=false&delayms=3000 to view presentation.
 
-- Visit https://drive.google.com/file/d/17OCtv8DG4nPeTZsKlkPWxRQy1qx_pnkd/view?usp=sharing for HTML version of report.
+- Visit https://drive.google.com/file/d/1qVHRBXMymqT3A64ZtYvbUPyV5jXfaOJL/view?usp=sharing for HTML version of report.
 
 ## Processing Instructions:
 - To improve reproducibility of the data analysis, a Jupyter Notebook file, data source files, Python modules are included.
