@@ -7,15 +7,14 @@ A/B Testing Analysis Fitness Club Acquisition Funnel
 
 - 5004 rows of data set that includes 9 features.
 
-- Visit https://docs.google.com/presentation/d/e/2PACX-1vQ1wpMLYn_tlMU8DjBwFLLrwxODtyQ-Yn0uHIyGVnNA6EugmanfVsLmeL2SzHEnEaEt-5jsuYaQy4iU/pub?start=false&loop=false&delayms=3000 to view presentation.
-
-- Visit https://drive.google.com/file/d/1qVHRBXMymqT3A64ZtYvbUPyV5jXfaOJL/view?usp=sharing for HTML version of report.
+- [Presentation Here](https://docs.google.com/presentation/d/e/2PACX-1vQ1wpMLYn_tlMU8DjBwFLLrwxODtyQ-Yn0uHIyGVnNA6EugmanfVsLmeL2SzHEnEaEt-5jsuYaQy4iU/pub?start=false&loop=false&delayms=3000)
+- [Report Here](https://drive.google.com/file/d/1qVHRBXMymqT3A64ZtYvbUPyV5jXfaOJL/view?usp=sharing)
 
 ## Processing Instructions:
 - To improve reproducibility of the data analysis, a Jupyter Notebook file, data source files, Python modules are included.
 
 ## Steps to Transformation:
-- Data was downloaded from https://content.codecademy.com/programs/intro-data-analysis/biodiversity.zip
+- [Data download](https://content.codecademy.com/programs/intro-data-analysis/biodiversity.zip)
 - Files “codecademySQL.py” and “codecademySQL.pyc” were imported into Jupyter Notebook for SQL query creation.
 - Combined 4 csv files (“visits.csv”, “fitness_tests.csv”, “applications.csv”, “purchases.csv”) into a single data frame.
 - Re-code fitness_test_date into categories “A” and “B” for ease of readability and analysis.
